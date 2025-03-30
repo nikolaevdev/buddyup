@@ -25,3 +25,5 @@ Backend: FastAPI, SQLAlchemy (асинхронная работа), PostgreSQL, 
 Frontend: Vue.js, Vuex, Vue Router, Flowbite (Tailwind CSS).​
 
 Документация API: Swagger UI (доступно по пути /docs).
+
+https://buddyup.hab.mishanikolaev.ru/docs
